@@ -1,2 +1,2 @@
-# tres-projects-website
-Website for Tres Projects.
+# Tres Projects Website 💻
+This is the repo for Tres Projects' website.
